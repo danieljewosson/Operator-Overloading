@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Operator Overloading.vcxproj" Id="bd5c4246-7917-4d60-a482-b3db6bc1fddd" />
+</Solution>
